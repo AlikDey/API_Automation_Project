@@ -1,0 +1,14 @@
+2023-12-07 19:21:34,695 +0530 [main] INFO  (RestFWLogger.java:11) - ===================================================================
+2023-12-07 19:21:34,698 +0530 [main] INFO  (RestFWLogger.java:12) - ===================================================================
+2023-12-07 19:21:34,698 +0530 [main] INFO  (RestFWLogger.java:13) - --------------------     Rest_Test01     --------------------
+2023-12-07 19:21:34,698 +0530 [main] INFO  (RestFWLogger.java:14) - ===================================================================
+2023-12-07 19:21:34,698 +0530 [main] INFO  (RestFWLogger.java:15) - ===================================================================
+2023-12-07 19:21:34,708 +0530 [main] INFO  (RestFWLogger.java:25) - Creating Rest Assured Object
+2023-12-07 19:21:34,708 +0530 [main] INFO  (RestFWLogger.java:25) - Excel sheet opened
+2023-12-07 19:21:34,708 +0530 [main] INFO  (RestFWLogger.java:25) - New object initiated
+2023-12-07 19:21:34,708 +0530 [main] INFO  (RestFWLogger.java:25) - URI of application launched
+2023-12-07 19:21:34,709 +0530 [main] INFO  (RestFWLogger.java:25) - Log in successfull
+2023-12-07 19:21:34,709 +0530 [main] INFO  (RestFWLogger.java:25) - Test case closed
+2023-12-07 19:21:34,709 +0530 [main] INFO  (RestFWLogger.java:19) - ==========================     --E--N--D--    =====================
+2023-12-07 19:21:34,709 +0530 [main] INFO  (RestFWLogger.java:20) - -------------------------------------------------------------------
+2023-12-07 19:21:34,710 +0530 [main] INFO  (RestFWLogger.java:21) - *******************************************************************
